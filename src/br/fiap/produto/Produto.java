@@ -1,6 +1,6 @@
 package br.fiap.produto;
 
-import br.fiap.fornecedor.Fornecedor;
+import br.fiap.fornecedor.*;
 
 public class Produto {
     private String nome;

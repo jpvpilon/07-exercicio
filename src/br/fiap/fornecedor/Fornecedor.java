@@ -25,3 +25,4 @@ public class Fornecedor {
         this.cnpj = cnpj;
     }
 }
+
